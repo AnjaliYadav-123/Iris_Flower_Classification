@@ -29,6 +29,6 @@ To run this project locally, follow these steps:
 1. Clone this repository.
    ```bash
    https://github.com/AnjaliYadav-123/Iris_Flower_Classification.git
-   cd Car-Price-Prediction
+
 
 
