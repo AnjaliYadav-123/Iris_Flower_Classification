@@ -14,7 +14,7 @@
 - [Installation](#installation)
 
 ## About
-
+Iris Flower Classification Model-Logistic Regression
 
 ## Features
 - Data Preprocessing
