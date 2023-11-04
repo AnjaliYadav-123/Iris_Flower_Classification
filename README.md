@@ -1,4 +1,4 @@
-# Car Price Prediction
+# Iris Flower Classification
 
 ## **Technologies Used**
 <a href="https://www.python.org/downloads/">
@@ -14,7 +14,7 @@
 - [Installation](#installation)
 
 ## About
-This project is a Car Price Prediction model built using machine learning techniques. It helps predict the price of cars based on various features and data collected. The project utilizes a Decision Tree Regressor for prediction.
+
 
 ## Features
 - Data Preprocessing
