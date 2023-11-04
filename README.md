@@ -12,7 +12,6 @@
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Requirements](#Requirements)
 
 ## About
 This project is a Car Price Prediction model built using machine learning techniques. It helps predict the price of cars based on various features and data collected. The project utilizes a Decision Tree Regressor for prediction.
@@ -29,11 +28,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/your-username/Car-Price-Prediction.git
+   https://github.com/AnjaliYadav-123/Iris_Flower_Classification.git
    cd Car-Price-Prediction
 
-## Requirements
-Describe the installation process, if any, including any dependencies. 
 
-```shell
-pip install -r requirements.txt
