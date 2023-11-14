@@ -12,6 +12,7 @@
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
+- [Requirements](#requirements)
 
 ## About
 Iris Flower Classification Model-Logistic Regression
