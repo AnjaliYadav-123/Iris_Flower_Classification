@@ -30,5 +30,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/AnjaliYadav-123/Iris_Flower_Classification.git
 
-
+```shell
+pip install -r requirements.txt
 
